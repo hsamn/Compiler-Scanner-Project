@@ -22,7 +22,7 @@ def tokenize(code):
         ('Special_Symbol_COMMA', r','),            # ,
         ('Special_Symbol_PCOMMA', r';'),           # ;
         ('Special_Symbol_STR', r'"'),           # ;
-        ('Special_Symbol_PER', r'.'),           # ;
+        ('Special_Symbol_PER', r'\.'),           # ;
         ('Operator_EQ', r'=='),              # ==
         ('Operator_NE', r'!='),              # !=
         ('Operator_LE', r'<='),              # <=
